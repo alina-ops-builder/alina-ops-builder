@@ -3,7 +3,7 @@
 Operations and AI transformation leader. I turn AI from experiments into governed, measurable systems, and I build a lot of them myself.
 
 - 18+ years in operations, 10+ in senior leadership (now on the executive team of a ~400-person B2B SaaS company)
-- Built an AI operating model from scratch: use-case intake, automated scoring, governance and a portfolio view of cost and ROI. 29 AI workflows shipped in 9 months across Finance, HR, Customer Success, Sales and Product
+- Built an AI operating model from scratch: use-case intake, automated RICE scoring, governance and a portfolio view of cost, ROI and how each automation impacts metrics. 30+ AI workflows shipped in 9 months across Operations, Finance, HR, Customer Success and Sales
 - Fully remote since 2015, leading distributed teams across Europe and the US
 
 ## What's here
